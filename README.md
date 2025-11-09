@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n29o0yhpestgioej?svg=true)](https://ci.appveyor.com/project/deminsvd/dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/6danct9q0glnv6ut?svg=true)](https://ci.appveyor.com/project/deminsvd/hw-events)
+
 
 
 
