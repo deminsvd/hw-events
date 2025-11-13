@@ -9,7 +9,7 @@ console.log(gameField);
 for (let r = 0; r < size; r++) {
   const cell = document.createElement('div');
   cell.className = 'hole';
-  cell.id = 'hole' + r;
+  cell.id = 'hole' + r + 1;
   gameField.append(cell);
 }
 
