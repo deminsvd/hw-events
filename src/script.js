@@ -6,10 +6,10 @@ import { setupCursorChange } from './hammer.js';
 const size = 16;
 const gameField = document.getElementById('hole-game');
 console.log(gameField);
-for (let r = 0; r < size; r++) {
+for (let r = 1; r < size + 1; r++) {
   const cell = document.createElement('div');
   cell.className = 'hole';
-  cell.id = 'hole' + r + 1;
+  cell.id = 'hole' + r;
   gameField.append(cell);
 }
 
