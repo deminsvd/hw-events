@@ -1,7 +1,9 @@
 export function initMoleGame() {
   let playing = true;
-  let activeHole = 1;
+  let activeHole = Math.floor(1 + Math.random() * 16);
 
+  
+  
   const getHole = (index) => document.getElementById(`hole${index}`),
         deactivateHole = (index) => getHole(index).className = 'hole',
         activateHole = (index) => getHole(index).className = 'hole hole_has-mole',
@@ -10,7 +12,7 @@ export function initMoleGame() {
             return;
           }
           deactivateHole(activeHole);
-          activeHole = Math.floor(1 + Math.random() * 4);
+          activeHole = Math.floor(1 + Math.random() * 16);
           activateHole(activeHole);
           next();
         }, 1000);
