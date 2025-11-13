@@ -1,6 +1,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6danct9q0glnv6ut?svg=true)](https://ci.appveyor.com/project/deminsvd/hw-events)
 
+https://deminsvd.github.io/hw-events/
 
+[![Workflow Status](https://github.com/deminsvd/hw-events/actions/workflows/main.yml/badge.svg)](https://github.com/deminsvd/hw-events/actions/workflows/main.yml)
 
 
 # Домашнее задание к занятию "2. DOM"
