@@ -5,6 +5,8 @@ https://deminsvd.github.io/hw-events/
 [![Workflow Status](https://github.com/deminsvd/hw-events/actions/workflows/main.yml/badge.svg)](https://github.com/deminsvd/hw-events/actions/workflows/main.yml)
 
 
+
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
